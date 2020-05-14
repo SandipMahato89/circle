@@ -1,0 +1,4 @@
+# to print the area of circle
+a=input ("enter the radius ")
+area=(3.142)*(a**2)
+print (ar)
